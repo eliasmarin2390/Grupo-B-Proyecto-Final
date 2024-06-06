@@ -1,0 +1,45 @@
+Proceso addIngredients
+	Definir opc Como Entero;
+	Definir aux Como Real;
+	Limpiar Pantalla;
+	opc <- 0;
+	aux <- 0;
+	Escribir "|-ADICIÓN DE INGREDIENTES-|";
+	Escribir " ";
+	Escribir "-OPCIONES-";
+	Escribir " ";
+	Escribir "EN LITROS";
+	Escribir "(1) Extracto de chocolate";
+	Escribir "(2) Extracto de vainilla";
+	Escribir "(3) Leche";
+	Escribir " ";
+	Escribir "EN KILOGRAMOS";
+	Escribir "(4) Harina";
+	Escribir "(5) Azúcar";
+	Escribir "(6) Levadura";
+	Escribir "(7) Dulce de leche";
+	Escribir "(8) Leche condensada";
+	Escribir "(9) Fresa";
+	Escribir "(10) Piña";
+	Escribir "(11) Frutos rojos";
+	Escribir "(12) Mantequilla";
+	Escribir "(13) Mora";
+	Escribir "(14) Cereza";
+	Escribir "(15) Mango";
+	Escribir "(16) Chispas de chocolate";
+	Escribir "(17) Malvaviscos";
+	Escribir " ";
+	Escribir "EN UNIDADES";
+	Escribir "(18) Huevos";
+	Escribir "(19) Empaques";
+	Escribir " ";
+	
+	Escribir "¿Cuánto desea añadir?";
+	Leer aux;
+	Escribir "¿A qué ingrediente desea añadirlo? (Opción 1-19)";
+	Leer opc;
+	Escribir "Según la opción seleccionada, se le sumará el valor de aux al ingrediente seleccionado";
+	Escribir "La adición fue realizada con éxito";
+	Escribir " ";
+	Escribir "Pulse cualquier tecla para continuar.";
+FinProceso
