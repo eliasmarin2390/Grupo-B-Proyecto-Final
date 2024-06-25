@@ -1,0 +1,30 @@
+Proceso showIngredients
+	Escribir "|-CANTIDAD ACTUAL DE INGREDIENTES-|";
+	Escribir "EN LITROS";
+	Escribir "Extracto de chocolate: (Cantidad de extracto de chocolate)";
+	Escribir "Extracto de vainilla: (Cantidad de extracto de vainilla)";
+	Escribir "Leche: (Cantidad de leche)";
+	Escribir " ";
+	Escribir "EN KILOGRAMOS";
+	Escribir "Harina: (Cantidad de harina)";
+	Escribir "Azúcar: (Cantidad de azúcar)";
+	Escribir "Levadura: (Cantidad de levadura)";
+	Escribir "Dulce de leche: (Cantidad de dulce de leche)";
+	Escribir "Leche condensada: (Cantidad de leche condensada)";
+	Escribir "Fresa: (Cantidad de fresa)";
+	Escribir "Piña: (Cantidad de piña)";
+	Escribir "Frutos rojos: (Cantidad de frutos rojos)";
+	Escribir "Mantequilla: (Cantidad de mantequilla)";
+	Escribir "Mora: (Cantidad de mora)";
+	Escribir "Cereza: (Cantidad de cereza)";
+	Escribir "Mango: (Cantidad de mango)";
+	Escribir "Chispas de chocolate: (Cantidad de chispas de chocolate)";
+	Escribir "Malvaviscos: (Cantidad de malvaviscos)";
+	Escribir " ";
+	Escribir "EN UNIDADES";
+	Escribir "Huevos: (Cantidad de huevos)";
+	Escribir "Empaques: (Cantidad de empaques)";
+	Escribir " ";
+	Escribir "Pulse cualquier tecla para continuar.";
+	Esperar Tecla;
+FinProceso
